@@ -1,0 +1,2 @@
+تعملت في الجلسة كيفية انشاء repository على  GitHub وعمل clone 
+واستخدام git add و git commit و git push 
