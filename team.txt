@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Nagham Muhammed 
-=======
+git push origin main
 m1 :Nagham Muhammed Marouf
 m2 : Yaman 
->>>>>>> 91e744dd091905fa4f4d8b81176e2a56a5a5af16
