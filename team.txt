@@ -1,3 +1,2 @@
-git push origin main
 m1 :Nagham Muhammed Marouf
 m2 : Yaman 
